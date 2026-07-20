@@ -106,3 +106,12 @@ header p{
     transform:translateY(-3px);
     box-shadow:0 10px 25px rgba(0,0,0,.25);
 }
+nav a{
+    text-decoration:none;
+    color:#222;
+    transition:.3s;
+}
+
+nav a:hover{
+    color:#0b3d91;
+}
