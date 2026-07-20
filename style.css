@@ -8,25 +8,6 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     background:#f5f7fa;
     color:#222;
-    <nav>
-
-    <h2>Varun J.</h2>
-
-    <ul>
-
-        <li>About</li>
-
-        <li>Projects</li>
-
-        <li>Skills</li>
-
-        <li>Resume</li>
-
-        <li>Contact</li>
-
-    </ul>
-
-</nav>
 }
 nav{
     background:white;
