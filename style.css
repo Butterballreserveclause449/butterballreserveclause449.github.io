@@ -73,3 +73,33 @@ header p{
     font-size:28px;
     color:#666;
 }
+.subtitle{
+    font-size:30px;
+    margin-top:15px;
+}
+
+.intro{
+    width:700px;
+    max-width:90%;
+    font-size:20px;
+    line-height:1.7;
+    margin-top:35px;
+    color:white;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:45px;
+    padding:18px 40px;
+    background:white;
+    color:#0b3d91;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:8px;
+    transition:.3s;
+}
+
+.btn:hover{
+    transform:translateY(-3px);
+    box-shadow:0 10px 25px rgba(0,0,0,.25);
+}
