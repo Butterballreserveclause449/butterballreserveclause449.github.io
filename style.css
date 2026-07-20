@@ -118,3 +118,13 @@ nav a{
 nav a:hover{
     color:#0b3d91;
 }
+section{
+    padding:100px 60px;
+    min-height:100vh;
+}
+
+section h2{
+    font-size:42px;
+    margin-bottom:25px;
+    color:#0b3d91;
+}
