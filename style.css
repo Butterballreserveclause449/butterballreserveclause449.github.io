@@ -8,4 +8,41 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     background:#f5f7fa;
     color:#222;
+    <nav>
+
+    <h2>Varun J.</h2>
+
+    <ul>
+
+        <li>About</li>
+
+        <li>Projects</li>
+
+        <li>Skills</li>
+
+        <li>Resume</li>
+
+        <li>Contact</li>
+
+    </ul>
+
+</nav>
+}
+nav{
+    background:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 60px;
+}
+
+nav ul{
+    list-style:none;
+    display:flex;
+    gap:35px;
+}
+
+nav li{
+    cursor:pointer;
+    font-weight:bold;
 }
