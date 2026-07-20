@@ -142,3 +142,19 @@ section p{
     font-size:20px;
     line-height:1.7;
 }
+
+section{
+    padding:100px 15%;
+}
+
+section h2{
+    font-size:48px;
+    color:#0b3d91;
+    margin-bottom:30px;
+}
+
+section p{
+    max-width:800px;
+    font-size:22px;
+    line-height:1.8;
+}
